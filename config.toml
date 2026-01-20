@@ -39,8 +39,8 @@ navigation = [
     { url = "$BASE_URL/tags", title = "Tags" },
 ]
 social_icons = [
-    { url = "https://github.com/cydave", icon = "GitHub" },
-    { url = "https://linkedin.com/in/cydave", icon = "LinkedIn" },
+    { url = "https://github.com/KaranamGireesa-1", icon = "GitHub" },
+    { url = "https://www.linkedin.com/in/gireesakaranam/", icon = "LinkedIn" },
     { url = "$BASE_URL/atom.xml", icon = "RSS" },
 ]
 date_format = "%d %b %Y"
@@ -55,8 +55,8 @@ title = "Hi there, I am Vanessa Marley"
 description_html = "<strong>Photographer</strong> and Visual Content Strategist from Albany. I work as a lifestyle, product, and landscape photographer, creating images for a diverse range of requests, from online media to printed artwork."
 image = "/images/01.jpg"
 image_alt = "Vanessa Marley's picture"
-cta_button_link = "#contact"
-cta_button = "Get in touch"
+cta_button_link = ""
+cta_button = ""
 works_button_link = "#projects"
 works_button = "See my works"
 
@@ -66,13 +66,5 @@ title = "Latest Works"
 description_html = """
     <p>I show only my best works built completely with passion, simplicity,
     and creativity!</p>"""
-link_url = "/projects"
+link_url = "https://KaranamGireesa-1.github.io/portfolio/projects"
 show_projects = true
-
-[[extra.content_blocks]]
-block = "contact-form"
-form_title = "Get in touch"
-form_description = "Vonge comes with a built-in contact form."
-form_success_page = ''
-form_submission_email = "site@example.com"
-form_button_text = "Send now"
