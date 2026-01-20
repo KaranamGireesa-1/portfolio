@@ -7,6 +7,6 @@ template = "external_project.html"
 [taxonomies]
 tags = ["hr", "canva"]
 [extra]
-image = '/images/project-7.jpg'
+image = '/images/hr-dispute-resolution.png'
 external_url = "https://www.canva.com/design/DAFvt21QXwg/raD7N0tw-Ocna8VXJ2xWog/edit?utm_content=DAFvt21QXwg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
 +++

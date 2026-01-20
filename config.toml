@@ -51,10 +51,10 @@ menu = []
 
 [[extra.content_blocks]]
 block = "hero"
-title = "Hi there, I am Vanessa Marley"
-description_html = "<strong>Photographer</strong> and Visual Content Strategist from Albany. I work as a lifestyle, product, and landscape photographer, creating images for a diverse range of requests, from online media to printed artwork."
-image = "/images/01.jpg"
-image_alt = "Vanessa Marley's picture"
+title = "Hi there, I am Gireesa Karanam"
+description_html = "I am a <strong>Data Analyst</strong> and <strong>Business Analytics</strong> professional with an MBA in Business Analytics and hands-on experience working on real-world datasets across business, research, and digital transformation initiatives. Currently part of the <strong>Business Digital Organization</strong> at <strong>Bosch</strong>, I focus on turning raw, complex data into clear insights that support better decisions."
+image = "/images/gireesa-picture.png"
+image_alt = "Gireesa Karanam's picture"
 cta_button_link = ""
 cta_button = ""
 works_button_link = "#projects"
