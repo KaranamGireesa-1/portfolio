@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block head %}
+<meta http-equiv="refresh" content="0; url={{ page.extra.external_url }}">
+{% endblock head %}
+{% block main %}
+<div class="container">
+    <div class="page animate">
+        <p>Redirecting to external project... <a href="{{ page.extra.external_url }}" target="_blank"
+                rel="noopener noreferrer">Click here if not redirected automatically</a></p>
+    </div>
+</div>
+{% endblock %}

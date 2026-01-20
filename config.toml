@@ -1,16 +1,78 @@
 # The URL the site will be built for
 base_url = "https://karanam-gireesa.github.io"
 
+theme = "vonge"
+
+title = "Gireesa's Portfolio"
+author = "Karanam Gireesa"
+description = "Portfolio site of Karanam Gireesa"
+
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = false
+compile_sass = true
+
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+minify_html = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+build_search_index = false
+
+taxonomies = [{ name = "tags", feed = true }]
 
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
+highlight_code = false
 
 [extra]
-# Put all your custom variables here
+logo_image = "images/gireesa-logo.png"
+social_media_share_image = "/images/01.jpg"
+disqus_identifier = ""
+google_analytics = ""
+twitter_handle = ""
+
+author_image = '/images/avatar.jpg'
+
+navigation = [
+    { url = "$BASE_URL", title = "Home" },
+    { url = "$BASE_URL/projects", title = "Projects" },
+    { url = "$BASE_URL/tags", title = "Tags" },
+]
+social_icons = [
+    { url = "https://github.com/cydave", icon = "GitHub" },
+    { url = "https://linkedin.com/in/cydave", icon = "LinkedIn" },
+    { url = "$BASE_URL/atom.xml", icon = "RSS" },
+]
+date_format = "%d %b %Y"
+language_direction = "auto"
+
+[extra.footer]
+menu = []
+
+[[extra.content_blocks]]
+block = "hero"
+title = "Hi there, I am Vanessa Marley"
+description_html = "<strong>Photographer</strong> and Visual Content Strategist from Albany. I work as a lifestyle, product, and landscape photographer, creating images for a diverse range of requests, from online media to printed artwork."
+image = "/images/01.jpg"
+image_alt = "Vanessa Marley's picture"
+cta_button_link = "#contact"
+cta_button = "Get in touch"
+works_button_link = "#projects"
+works_button = "See my works"
+
+[[extra.content_blocks]]
+block = "projects-section"
+title = "Latest Works"
+description_html = """
+    <p>I show only my best works built completely with passion, simplicity,
+    and creativity!</p>"""
+link_url = "/projects"
+show_projects = true
+
+[[extra.content_blocks]]
+block = "contact-form"
+form_title = "Get in touch"
+form_description = "Vonge comes with a built-in contact form."
+form_success_page = ''
+form_submission_email = "site@example.com"
+form_button_text = "Send now"
