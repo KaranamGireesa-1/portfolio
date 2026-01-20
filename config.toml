@@ -25,13 +25,13 @@ taxonomies = [{ name = "tags", feed = true }]
 highlight_code = false
 
 [extra]
-logo_image = "images/gireesa-logo.png"
-social_media_share_image = "/images/01.jpg"
+logo_image = "/favicon.ico"
+social_media_share_image = "/images/gireesa-picture.png"
 disqus_identifier = ""
 google_analytics = ""
 twitter_handle = ""
 
-author_image = '/images/avatar.jpg'
+author_image = '/images/gireesa-picture.png'
 
 navigation = [
     { url = "$BASE_URL", title = "Home" },
