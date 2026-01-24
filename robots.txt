@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://KaranamGireesa-1.github.io/portfolio/sitemap.xml

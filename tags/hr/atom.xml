@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Gireesa&#x27;s Portfolio - hr</title>
+    <subtitle>Portfolio site of Karanam Gireesa</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://KaranamGireesa-1.github.io/portfolio/tags/hr/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://KaranamGireesa-1.github.io/portfolio"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-01-08T05:20:35+00:00</updated>
+    <id>https://KaranamGireesa-1.github.io/portfolio/tags/hr/atom.xml</id>
+    <entry xml:lang="en">
+        <title>HR in dispute resolution</title>
+        <published>2021-01-08T05:20:35+00:00</published>
+        <updated>2021-01-08T05:20:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Karanam Gireesa
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://KaranamGireesa-1.github.io/portfolio/projects/hr-in-dispute-resolution/"/>
+        <id>https://KaranamGireesa-1.github.io/portfolio/projects/hr-in-dispute-resolution/</id>
+        
+        <content type="html" xml:base="https://KaranamGireesa-1.github.io/portfolio/projects/hr-in-dispute-resolution/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Kellogg’s Cornflakes</title>
+        <published>2021-01-07T05:20:35+00:00</published>
+        <updated>2021-01-07T05:20:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Karanam Gireesa
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://KaranamGireesa-1.github.io/portfolio/projects/kellogg-s-cornflakes/"/>
+        <id>https://KaranamGireesa-1.github.io/portfolio/projects/kellogg-s-cornflakes/</id>
+        
+        <content type="html" xml:base="https://KaranamGireesa-1.github.io/portfolio/projects/kellogg-s-cornflakes/"></content>
+        
+    </entry>
+</feed>

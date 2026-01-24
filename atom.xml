@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Gireesa&#x27;s Portfolio</title>
+    <subtitle>Portfolio site of Karanam Gireesa</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://KaranamGireesa-1.github.io/portfolio/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://KaranamGireesa-1.github.io/portfolio"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-01-09T05:20:35+00:00</updated>
+    <id>https://KaranamGireesa-1.github.io/portfolio/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Data Dashboard</title>
+        <published>2021-01-09T05:20:35+00:00</published>
+        <updated>2021-01-09T05:20:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Karanam Gireesa
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://KaranamGireesa-1.github.io/portfolio/projects/data-dashboard/"/>
+        <id>https://KaranamGireesa-1.github.io/portfolio/projects/data-dashboard/</id>
+        
+        <content type="html" xml:base="https://KaranamGireesa-1.github.io/portfolio/projects/data-dashboard/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>HR in dispute resolution</title>
+        <published>2021-01-08T05:20:35+00:00</published>
+        <updated>2021-01-08T05:20:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Karanam Gireesa
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://KaranamGireesa-1.github.io/portfolio/projects/hr-in-dispute-resolution/"/>
+        <id>https://KaranamGireesa-1.github.io/portfolio/projects/hr-in-dispute-resolution/</id>
+        
+        <content type="html" xml:base="https://KaranamGireesa-1.github.io/portfolio/projects/hr-in-dispute-resolution/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Kellogg’s Cornflakes</title>
+        <published>2021-01-07T05:20:35+00:00</published>
+        <updated>2021-01-07T05:20:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Karanam Gireesa
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://KaranamGireesa-1.github.io/portfolio/projects/kellogg-s-cornflakes/"/>
+        <id>https://KaranamGireesa-1.github.io/portfolio/projects/kellogg-s-cornflakes/</id>
+        
+        <content type="html" xml:base="https://KaranamGireesa-1.github.io/portfolio/projects/kellogg-s-cornflakes/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>NETFLIX’S Dominance</title>
+        <published>2021-01-06T05:20:35+00:00</published>
+        <updated>2021-01-06T05:20:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Karanam Gireesa
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://KaranamGireesa-1.github.io/portfolio/projects/netflix-s-dominance/"/>
+        <id>https://KaranamGireesa-1.github.io/portfolio/projects/netflix-s-dominance/</id>
+        
+        <content type="html" xml:base="https://KaranamGireesa-1.github.io/portfolio/projects/netflix-s-dominance/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>GGPLOT</title>
+        <published>2021-01-05T05:20:35+00:00</published>
+        <updated>2021-01-05T05:20:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Karanam Gireesa
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://KaranamGireesa-1.github.io/portfolio/projects/ggplot/"/>
+        <id>https://KaranamGireesa-1.github.io/portfolio/projects/ggplot/</id>
+        
+        <content type="html" xml:base="https://KaranamGireesa-1.github.io/portfolio/projects/ggplot/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>TOYOTA Production System</title>
+        <published>2021-01-04T05:20:35+00:00</published>
+        <updated>2021-01-04T05:20:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Karanam Gireesa
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://KaranamGireesa-1.github.io/portfolio/projects/toyoto-prouduction-system/"/>
+        <id>https://KaranamGireesa-1.github.io/portfolio/projects/toyoto-prouduction-system/</id>
+        
+        <content type="html" xml:base="https://KaranamGireesa-1.github.io/portfolio/projects/toyoto-prouduction-system/"></content>
+        
+    </entry>
+</feed>
